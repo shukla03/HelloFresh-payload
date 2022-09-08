@@ -1,0 +1,10 @@
+com\hellofresh\datastats\api\StatsController.class
+com\hellofresh\datastats\model\Stats.class
+com\hellofresh\datastats\DatastatsApplication.class
+com\hellofresh\datastats\service\EventService.class
+com\hellofresh\datastats\service\PayloadService.class
+com\hellofresh\datastats\api\EventController.class
+com\hellofresh\datastats\service\InvalidXException.class
+com\hellofresh\datastats\service\InvalidYException.class
+com\hellofresh\datastats\service\InvalidTimeStampException.class
+com\hellofresh\datastats\model\DataEvent.class
